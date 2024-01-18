@@ -1,0 +1,13 @@
+{
+        "C_Cpp.clang_format_style": "{ BasedOnStyle: Mozilla, ColumnLimit: 85, IndentWidth: 4, PointerAlignment: Right, BinPackArguments: true, BinPackParameters: true, BreakBeforeBinaryOperators: NonAssignment, AlignOperands: AlignAfterOperator, InsertBraces: true, InsertNewlineAtEOF: true }",
+        "C_Cpp.clang_format_fallbackStyle": "Mozilla",
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+        "files.autoSave": "onFocusChange",
+        "files.defaultLanguage": "c",
+        "C_Cpp.autoAddFileAssociations": false,
+        "files.associations": {
+                "*.c": "c",
+                "*.h": "c",
+        },
+}

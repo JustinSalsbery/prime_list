@@ -1,0 +1,9 @@
+
+# Exclude:
+.*
+*.out
+
+# Exceptions:
+!.gitignore
+!.github
+!.vscode
